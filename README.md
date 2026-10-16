@@ -1,6 +1,6 @@
 English version of nahuelx32's Dino Crisis patch created by Claude
 
-
+To install use PPF-o-Matic on your own **Dino Crisis** (PlayStation, Europe PAL release, *SLES-02207**) disc image
 
 <a name="english"></a>
 # Dino Crisis — Modern controls (PS1, PAL Spain)
@@ -37,8 +37,6 @@ A patch for **Dino Crisis** (PlayStation, Europe PAL release, *SLES-02207**) tha
 | R3 | shoulder camera ↔ original cameras |
 | L3 | camera behind Regina |
 | Triangle | show/hide HUD |
-
-## Required image
 
 
 
