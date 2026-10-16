@@ -1,6 +1,8 @@
 English version of nahuelx32's Dino Crisis patch created by Claude
 
-To install use PPF-o-Matic on your own **Dino Crisis** (PlayStation, Europe PAL release, *SLES-02207**) disc image
+To install use PPF-o-Matic on your own Europe PAL release, *SLES-02207* disc image
+https://psxdatacenter.com/games/P/D/SLES-02207.html
+
 
 <a name="english"></a>
 # Dino Crisis — Modern controls (PS1, PAL Spain)
