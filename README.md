@@ -25,14 +25,14 @@ All of the mod's code is in the Euro patch (the same 20 hooks), with one excepti
 | Button | Action |
 |---|---|
 | Left stick | move (360°, camera-relative) |
-| L2 / R2 | aim / fire |
-| R1 (hold) | walk |
-| Square | toggle auto-run |
-| X | action |
+| LT / RT | aim / fire |
+| RB (hold) | walk |
+| X | toggle auto-run |
+| A | action |
 | Right stick | shoulder camera; while aiming, turns the aim |
 | R3 | shoulder camera ↔ original cameras |
 | L3 | camera behind Regina |
-| Triangle | show/hide HUD |
+| Y | show/hide HUD |
 
 ## Port status (Europe PAL)
 
