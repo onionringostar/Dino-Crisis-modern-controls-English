@@ -39,10 +39,10 @@ All of the mod's code is in the Euro patch (the same 20 hooks), with one excepti
 | Feature | Status |
 |---|---|
 | Free 360° analog movement, relative to the camera | ✅ Confirmed working |
-| Over-the-shoulder camera | ⚠️ Ported, untested |
-| Twin-stick aiming | ⚠️ Ported, untested |
+| Over-the-shoulder camera | ✅ Confirmed working |
+| Twin-stick aiming | ✅ Confirmed working |
 | Cancelable shots with delay | ⚠️ Ported, untested |
-| Auto-run | ⚠️ Ported, untested |
+| Auto-run | ✅ Confirmed working |
 | HUD (weapon, ammo, health) | ⚠️ Ported with English text, untested |
 | Cutscenes, pushing objects and other actions | ⚠️ Ported, untested |
 | Start skips the opening videos | ❌ Not working on the European version |
