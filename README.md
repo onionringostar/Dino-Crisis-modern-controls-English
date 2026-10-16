@@ -9,7 +9,7 @@ https://psxdatacenter.com/games/P/D/SLES-02207.html
 
 
 
-A patch for **Dino Crisis** (PlayStation, Europe PAL release, *SLES-02207**) that replaces tank controls with modern camera-relative movement and adds an over-the-shoulder third-person camera. It is applied to your own copy of the game; this repository **does not include any part of the game**.
+A patch for **Dino Crisis** (PlayStation, Europe PAL release, *SLES-02207* that replaces tank controls with modern camera-relative movement and adds an over-the-shoulder third-person camera. It is applied to your own copy of the game; this repository **does not include any part of the game**.
 
 
 ## Features
