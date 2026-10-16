@@ -13,10 +13,10 @@ All of the mod's code is in the Euro patch (the same 20 hooks), with one excepti
   - the whole room and the dinosaurs are visible, not only what the fixed camera would show;
   - camera changes don't pause the game in shoulder view;
   - lasers and lights are visible from both sides.
-- Twin-stick aiming: L2 aims, R2 fires, the right stick turns the aim.
+- Twin-stick aiming: LT aims, RT fires, the right stick turns the aim.
 - Cancelable shots, with a delay between shots similar to the original.
-- Auto-run (Square toggles it; R1 walks). (Inspired by Dino Crisis 2)
-- HUD with weapon, magazine/reserve (`EMPTY` = out of ammo) and health; Triangle toggles it. (Inspired by the VMU display in the Dreamcast version)
+- Auto-run (X toggles it; RB walks). (Inspired by Dino Crisis 2)
+- HUD with weapon, magazine/reserve (`EMPTY` = out of ammo) and health; Y toggles it. (Inspired by the VMU display in the Dreamcast version)
 - Cutscenes, pushing objects and other actions work as in the original.
 - ❌ Start skipping the opening videos: **not working on the European version** (see below).
 
