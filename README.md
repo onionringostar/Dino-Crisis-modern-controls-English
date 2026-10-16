@@ -5,7 +5,7 @@ https://psxdatacenter.com/games/P/D/SLES-02207.html
 
 
 <a name="english"></a>
-# Dino Crisis — Modern controls (PS1, PAL Spain)
+# Dino Crisis — Modern controls (PS1, PAL Europe)
 
 
 
